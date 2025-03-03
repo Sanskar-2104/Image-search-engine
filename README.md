@@ -1,5 +1,4 @@
 
----
 
 # 🔍 Image Search Engine  
 
@@ -50,4 +49,4 @@ This project is licensed under the **MIT License**.
 - Icons by [FontAwesome](https://fontawesome.com/)  
 - Images powered by [Unsplash](https://unsplash.com/) / [Pexels](https://www.pexels.com/) (if applicable)  
 
----  
+  
